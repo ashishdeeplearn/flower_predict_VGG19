@@ -10,3 +10,4 @@ requests-oauthlib
 matplotlib
 tensorflow-cpu
 Werkzeug
+gunicorn
