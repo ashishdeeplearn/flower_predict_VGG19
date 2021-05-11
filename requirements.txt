@@ -1,0 +1,13 @@
+
+Flask  
+Jinja2 
+Keras-Preprocessing 
+numpy 
+Pillow 
+pip 
+requests  
+requests-oauthlib
+matplotlib
+glob
+tensorflow
+Werkzeug
