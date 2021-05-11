@@ -8,5 +8,5 @@ pip
 requests  
 requests-oauthlib
 matplotlib
-tensorflow==2.0.0
+tensorflow-cpu
 Werkzeug
